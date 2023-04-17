@@ -1,0 +1,8 @@
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\bin\Debug\RubricaTester.exe.config
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\bin\Debug\RubricaTester.exe
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\bin\Debug\RubricaTester.pdb
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\obj\Debug\RubricaTester.csproj.AssemblyReference.cache
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\obj\Debug\RubricaTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\obj\Debug\RubricaTester.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\obj\Debug\RubricaTester.exe
+C:\Users\Studente\Documents\4E\RubricaTester\RubricaTester\obj\Debug\RubricaTester.pdb
